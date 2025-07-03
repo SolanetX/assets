@@ -1,6 +1,6 @@
 {
     "name": "SolanetX: Solana Token List",
-    "timestamp": 1751546166,
+    "timestamp": 1751546288,
     "tokens": [
         {
             "type": "SPL",
@@ -9,6 +9,14 @@
             "symbol": "Bonk",
             "decimals": 5,
             "logoURI": "https://quei6zhlcfsxdfyes577gy7bkxmuz7qqakyt72xlbkyh7fysmoza.arweave.net/hQiPZOsRZXGXBJd_82PhVdlM_hACsT_q6wqwf5cSY7I"
+        },
+        {
+            "type": "SPL",
+            "address": "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",
+            "name": "Jupiter",
+            "symbol": "JUP",
+            "decimals": 6,
+            "logoURI": "https://static.jup.ag/jup/icon.png"
         }
     ]
 }
